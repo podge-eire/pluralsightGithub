@@ -1,3 +1,3 @@
-Instructions for deploying this file to the server lol
+Instructions for deploying this file tothe server
 
 1) Deploy 
